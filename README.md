@@ -5,11 +5,11 @@ and illustrative lifetime expected credit loss projections.
 
 ## Contributor Credit
 
-Thai Duong contributed:
+**Minh Thai Duong** contributed the following components of the final project:
 
-- The PD model implemented in `Model_Development_clean.ipynb`
-- The macro-variable selection used in the final PD implementation
-- The PD projection implemented in `PD_Projection (3).ipynb`
+- **PD model:** model development and estimation in `Model_Development_clean.ipynb`
+- **Macro-variable selection:** the variable-selection workflow used in the final PD implementation
+- **PD projection:** lifetime PD and illustrative ECL projection in `PD_Projection (3).ipynb`
 
 ## Final Report
 
