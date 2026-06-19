@@ -3,6 +3,14 @@
 Team project linking macroeconomic scenarios to mortgage probability of default
 and illustrative lifetime expected credit loss projections.
 
+## Contributor Credit
+
+Thai Duong contributed:
+
+- The PD model implemented in `Model_Development_clean.ipynb`
+- The macro-variable selection used in the final PD implementation
+- The PD projection implemented in `PD_Projection (3).ipynb`
+
 ## Final Report
 
 [Read the final project report](write_up.pdf).
@@ -39,10 +47,6 @@ The following large local data files are not included in the public repository:
 The notebooks are provided as project artifacts. A complete rerun requires the
 excluded source data and the model-parameter handoff expected by the projection
 notebook.
-
-## Contributor Credit
-
-Thai contributed the PD model, macro-variable selection, and PD projection.
 
 ## Related Macro Engine
 
