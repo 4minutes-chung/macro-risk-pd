@@ -1,0 +1,17 @@
+# macOS and notebook clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Large local datasets excluded from the public repository
+full_panel.parquet
+hazard_panel_full.parquet
+2025Q3.csv
+chunk_*.parquet
+
+# Local scratch and temporary files
+*.tmp
+*.temp
+*~
