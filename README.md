@@ -8,12 +8,10 @@ credit loss projections.
 ## Project Team
 
 - **Steven Chung** developed the macroeconomic scenario model used to generate
-  baseline, mild-recession, and severe-stress paths.
+  baseline, mild-recession, and severe-stress paths and was involved in
+  macro-variable selection.
 - **Minh Thai Duong** developed the loan-level PD model, the final
   macro-variable selection workflow, and the lifetime PD projection.
-
-These components were combined into the final team workflow presented in the
-notebooks and report.
 
 ## Final Report
 
