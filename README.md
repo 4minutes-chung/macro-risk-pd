@@ -1,15 +1,19 @@
-# Macro Risk PD
+# Macroeconomic Mortgage Credit Risk Modeling
 
-Team project linking macroeconomic scenarios to mortgage probability of default
-and illustrative lifetime expected credit loss projections.
+This repository contains the final work of a group project by **Steven Chung**
+and **Minh Thai Duong**. The project links forward-looking macroeconomic
+scenarios to mortgage probability of default and illustrative lifetime expected
+credit loss projections.
 
-## Contributor Credit
+## Project Team
 
-**Minh Thai Duong** contributed the following components of the final project:
+- **Steven Chung** developed the macroeconomic scenario model used to generate
+  baseline, mild-recession, and severe-stress paths.
+- **Minh Thai Duong** developed the loan-level PD model, the final
+  macro-variable selection workflow, and the lifetime PD projection.
 
-- **PD model:** model development and estimation in `Model_Development_clean.ipynb`
-- **Macro-variable selection:** the variable-selection workflow used in the final PD implementation
-- **PD projection:** lifetime PD and illustrative ECL projection in `PD_Projection (3).ipynb`
+These components were combined into the final team workflow presented in the
+notebooks and report.
 
 ## Final Report
 
