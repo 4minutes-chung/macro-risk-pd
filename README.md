@@ -1,17 +1,19 @@
 # Macroeconomic Mortgage Credit Risk Modeling
 
-This repository contains the final work of a group project by **Steven Chung**
-and **Minh Thai Duong**. The project links forward-looking macroeconomic
-scenarios to mortgage probability of default and illustrative lifetime expected
-credit loss projections.
+This repository contains the final work of a group project by
+**[Steven Chung](https://github.com/4minutes-chung)** and
+**[Minh Thai Duong](https://github.com/MarshallianDemand)**. The project links
+forward-looking macroeconomic scenarios to mortgage probability of default and
+illustrative lifetime expected credit loss projections.
 
 ## Project Team
 
-- **Steven Chung** developed the macroeconomic scenario model used to generate
-  baseline, mild-recession, and severe-stress paths and was involved in
-  macro-variable selection.
-- **Minh Thai Duong** developed the loan-level PD model, the final
-  macro-variable selection workflow, and the lifetime PD projection.
+- **[Steven Chung](https://github.com/4minutes-chung)** developed the
+  macroeconomic scenario model used to generate baseline, mild-recession, and
+  severe-stress paths and was involved in macro-variable selection.
+- **[Minh Thai Duong](https://github.com/MarshallianDemand)** developed the
+  loan-level PD model, the final macro-variable selection workflow, and the
+  lifetime PD projection.
 
 ## Final Report
 
