@@ -11,9 +11,7 @@ illustrative lifetime expected credit loss projections.
 - **[Steven Chung](https://github.com/4minutes-chung)** developed the
   macroeconomic scenario model used to generate baseline, mild-recession, and
   severe-stress paths and was involved in macro-variable selection.
-- **[Minh Thai Duong](https://github.com/MarshallianDemand)** developed the
-  loan-level PD model, the final macro-variable selection workflow, and the
-  lifetime PD projection.
+- **[Minh Thai Duong](https://github.com/MarshallianDemand)** designed and developed the followings: quarterly panel construction and stratified sampling design across ~54M loan-quarter observations, oversampling bias correction, conditional default probability modeling, combinatorial macro variable selection workflow, integration of forward-looking macro scenarios into lifetime PD term structures, and illustrative ECL projections on a new vintage.
 
 ## Final Report
 
